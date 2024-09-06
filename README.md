@@ -24,19 +24,3 @@ This tool extracts key sections from research paper PDFs using AI-powered analys
 10. Expanded sources: Support for academic paper repositories beyond arXiv
 11. GUI: Simple graphical interface for non-technical users
 12. Customizable extraction: Allow users to specify which sections to extract
-
-## Usage
-
-[Add usage instructions here]
-
-## Requirements
-
-[List dependencies and installation instructions]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
-## License
-
-[Specify the license for your project]
